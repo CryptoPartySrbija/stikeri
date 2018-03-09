@@ -3,7 +3,7 @@ Predlozeni stikeri za stampu
 ## Dodavanje novih
 Gledajte samo da imena ne budu ista sa postojecim.
 ## Dimenzije za stampu:
-1.jpeg  | precnik = 1cm  | x komada
+[1.jpeg](https://github.com/CryptoPartySrbija/stikeri/blob/master/1.jpeg)  | precnik = 1cm  | x komada
 
 2.png   | 5cm X 1,5cm    | x komada
 
