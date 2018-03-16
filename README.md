@@ -3,11 +3,13 @@ Predlozeni stikeri za stampu
 ## Dodavanje novih
 Gledajte samo da imena ne budu ista sa postojecim.
 ## Dimenzije za stampu:
+
 [1.jpeg](https://github.com/CryptoPartySrbija/stikeri/blob/master/1.jpeg)  | precnik = 1cm  | x komada
-![picture]((https://github.com/CryptoPartySrbija/stikeri/blob/master/1.jpeg))
+
+![picture](https://github.com/CryptoPartySrbija/stikeri/blob/master/1.jpeg | width=100)
 
 [2.png](https://github.com/CryptoPartySrbija/stikeri/blob/master/2.png)   | 5cm X 1,5cm    | x komada
-![picture](https://github.com/CryptoPartySrbija/stikeri/blob/master/2.png)
+![picture](https://github.com/CryptoPartySrbija/stikeri/blob/master/2.png | width=100) 
 
 [3.jpg](https://github.com/CryptoPartySrbija/stikeri/blob/master/3.jpg)   | precnik = 5cm  | x komada
 ![picture](https://github.com/CryptoPartySrbija/stikeri/blob/master/3.jpg)
